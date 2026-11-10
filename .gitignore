@@ -1,0 +1,15 @@
+# build output
+build/
+build-release/
+*.o
+*.dmg
+*.pkg
+# test output
+*.ppm
+# third-party sound disks (not ours to publish)
+Web/disks/
+*.IMG
+*.img
+*.hfe
+# macOS
+.DS_Store
